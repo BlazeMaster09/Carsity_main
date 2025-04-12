@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fdec40b-d3eb-4717-bd53-14e872882968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/carsity_base/homapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carsity_base/homapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carsity_base/carsity_base/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/carsity_base/carsity_base/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carsity_base/homapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/carsity_base/homapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
