@@ -1,16 +1,19 @@
-{% load static %}
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% extends 'Base.html' %}
+<!-- Заголовок закладки-->
+{% block title %}
+CARSITY_MAIN
+{% endblock %}
+<!-- Шапка -->
+{% block header %}
 
-    <title>Document</title>
-</head>
-<body>
-<h1>Carsity Записи</h1>
-</body>
-</html>
+{% endblock %}
+<h1>CAR_Sity</h1>
+<!-- Размещение контента -->
+{% block main %}
+<p>Запись</p>
+{% endblock %}
+
+<!-- Подвал -->
+{% block footer %}
+
+{% endblock %}
